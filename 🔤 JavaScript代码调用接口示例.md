@@ -1,6 +1,6 @@
 # JavaScript 代码调用接口示例 📄
 
-以下为 JavaScript 语言调用提取接口的示例。示例代码中用到的 userId 和 secretKey 请前往[开发者接口管理中心](https://h.aaaapp.cn/user/developer)获取。
+以下为 JavaScript 语言调用提取接口的示例。示例代码中用到的 userId 和 secretKey 请前往[开发者接口管理中心](https://www.henghengmao.com/user/developer)获取。
 
 ```javascript
 const api = "https://h.aaaapp.cn/single_post"; // 单个帖子提取接口 (如果主页批量提取使用：https://h.aaaapp.cn/posts)
