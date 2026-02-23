@@ -1,5 +1,7 @@
 # 哼哼猫接口文档
 
+> **📢 哼哼猫最近新增了一些 API，请前往 👉 [docs.henghengmao.com](https://docs.henghengmao.com/zh/developer) 查看最新版本接口文档。**
+
 欢迎使用哼哼猫接口文档！本项目提供了多种接口和代码示例，帮助您快速集成和使用。
 
 ## 📄 接口文档
