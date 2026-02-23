@@ -1,6 +1,6 @@
 # PHP 代码调用接口示例 📄
 
-> **📢 哼哼猫最近新增了一些 API，请前往 👉 [docs.henghengmao.com](https://docs.henghengmao.com/zh/developer) 查看最新版本接口文档。**
+> **📢 哼哼猫最近新增了一些 API，请前往 👉 [docs.henghengmao.com](https://docs.henghengmao.com/zh/developer/code-example/php) 查看最新版本接口文档。**
 
 以下为 PHP 语言调用提取接口的示例。示例代码中用到的 userId 和 secretKey 请前往[开发者接口管理中心](https://www.henghengmao.com/user/developer)获取。
 
